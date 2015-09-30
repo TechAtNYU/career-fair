@@ -177,12 +177,6 @@ button {
   position: relative;
   top: .15em;
 }
-.startup__one::after {
-  content: "Startup";
-  position: absolute;
-  top: -0.04em;
-  left: .04em;
-}
 .logo {
   position: absolute;
   top: 1em;
