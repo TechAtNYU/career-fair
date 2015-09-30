@@ -438,7 +438,7 @@ dl .item {
   font-size: 90%;
 }
 .event__description {
-  font-size: 90%;
+  font-size: 80%;
 }
 .full__rsvp {
   width: 100%;
@@ -803,7 +803,7 @@ dl .item {
   .description {
     margin: 1.5in 0 0.25in;
     float: right;
-    font-size: 24pt !important;
+    font-size: 15pt !important;
     text-align: right;
     width: 3.25in;
     padding: 0.25in 0 0.25in 0.125in;
