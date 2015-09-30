@@ -801,7 +801,12 @@ dl .item {
     top: 0;
   }
   .description {
-
+    margin: 1.5in 0 0.25in;
+    float: right;
+    font-size: 18pt !important;
+    text-align: right;
+    width: 3.25in;
+    padding: 0.25in 0 0.25in 0.125in;
   }
   .subtitle {
     font-size: 36pt !important;
