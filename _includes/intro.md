@@ -1,0 +1,1 @@
+Tech@NYU’s is hosting a job fair with the biggest and best companies in New York! This is an opportunity for NYC's best & brightest students to network with some of the coolest startups and technology companies. Come find your next job or internship!

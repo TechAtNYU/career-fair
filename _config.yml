@@ -1,0 +1,8 @@
+name: Job Fair
+markdown: redcarpet
+timezone: "America/New_York"
+exclude: ["circle.yml", "README.md", "requirements.txt", "venv"]
+
+collections:
+  events:
+    output: true

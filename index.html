@@ -1,0 +1,19 @@
+---
+layout: main
+title: welcome
+---
+
+<section class="involved section__righttype events__schedule" style="z-index:4;">
+	<h2>Get Excited.</h2>
+
+	{% capture intro %}{% include intro.md %}{% endcapture %}
+	{{ intro | unindent | markdownify }}
+
+</section>
+<div id="triangles" style="position:absolute; margin-top:10em; z-index:1;"></div>
+<section class="supporters section__righttype">
+{% capture sponsor %}
+{% include sponsors.md %}
+{% endcapture %}
+{{ sponsor | unindent | markdownify }}
+</section>
