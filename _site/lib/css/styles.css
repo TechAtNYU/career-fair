@@ -763,7 +763,7 @@ dl .item {
   .startup__mask,
   .info,
   body::after {
-    height: 23em;
+    height: 25em;
   }
 }
 @media only screen and (min-width: 70em) {
