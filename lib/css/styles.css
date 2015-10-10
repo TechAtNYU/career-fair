@@ -1,12 +1,30 @@
 @font-face {
-  font-family: 'Input Mono Compressed';
-  src: url('/lib/fonts/inputmonocompressed-regular-webfont.eot');
-  src: url('/lib/fonts/inputmonocompressed-regular-webfont.eot?#iefix') format('embedded-opentype'), url('/lib/fonts/inputmonocompressed-regular-webfont.woff') format('woff'), url('/lib/fonts/inputmonocompressed-regular-webfont.ttf') format('truetype'), url('/lib/fonts/inputmonocompressed-regular-webfont.svg#input_mono_compressedregular') format('svg');
-  font-weight: 300;
-  font-style: normal;
+    font-family: 'inconsolatabold';
+    src: url('/lib/fonts/inconsolata-bold-webfont.eot');
+    src: url('/lib/fonts/inconsolata-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/lib/fonts/inconsolata-bold-webfont.woff2') format('woff2'),
+         url('/lib/fonts/inconsolata-bold-webfont.woff') format('woff'),
+         url('/lib/fonts/inconsolata-bold-webfont.ttf') format('truetype'),
+         url('/lib/fonts/inconsolata-bold-webfont.svg#inconsolatabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
 }
-.inputmonocompressed {
-  font-family: "Input Mono Comp";
+
+@font-face {
+    font-family: 'inconsolataregular';
+    src: url('/lib/fonts/inconsolata-regular-webfont.eot');
+    src: url('/lib/fonts/inconsolata-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/lib/fonts/inconsolata-regular-webfont.woff2') format('woff2'),
+         url('/lib/fonts/inconsolata-regular-webfont.woff') format('woff'),
+         url('/lib/fonts/inconsolata-regular-webfont.ttf') format('truetype'),
+         url('/lib/fonts/inconsolata-regular-webfont.svg#inconsolataregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.inconsolataregular {
+  font-family: "inconsolataregular";
   font-style: normal;
   font-weight: normal;
 }
@@ -168,7 +186,7 @@ button {
   display: none;
 }
 .startup__one {
-  font-family: "Input Mono Comp", 'Input Mono Compressed', "Helvetica";
+  font-family: "inconsolatabold", "Helvetica";
   font-weight: 300;
   line-height: 0.55;
   transform: rotate(-15deg);
@@ -208,7 +226,7 @@ button {
   -o-transition: background-color 0.5s ease-in-out;
   transition: background-color 0.5s ease-in-out;
   padding: 0.5em;
-  font: 1.5em "Input Mono Comp", 'Input Mono Compressed', "Helvetica";
+  font: 1.5em "inconsolataregular", "Helvetica";
   text-decoration: none;
 }
 .button:hover,
@@ -226,7 +244,7 @@ button {
 .signup__form,
 .signup__submit {
   box-sizing: border-box;
-  font: 1.5em "Input Mono Comp", 'Input Mono Compressed', "Helvetica";
+  font: 1.5em "inconsolataregular", "Helvetica";
   padding: 0.5em;
   border: 3px solid #152a5b;
   float: left;
@@ -350,7 +368,7 @@ dl .item {
   border: 3px solid #cccccc;
   border-radius: 50px;
   padding: 0.25em 0.75em;
-  font: 0.75em "Input Mono Comp", 'Input Mono Compressed', "Helvetica";
+  font: 0.75em "inconsolataregular", "Helvetica";
   background: none;
   cursor: pointer;
 }
@@ -562,7 +580,7 @@ dl .item {
     background: none;
     border-radius: 100px;
     color: #65408b;
-    font: 1.25em "Input Mono Comp", 'Input Mono Compressed', "Helvetica";
+    font: 1.25em "inconsolataregular", "Helvetica";
     padding: 0.333em 0.75em;
     margin-top: 1em;
     display: inline-block;
@@ -853,7 +871,7 @@ dl .item {
   .startup__one {
     position: static;
     overflow: hidden;
-    font-family: "Input Mono Comp", 'Input Mono Compressed', "Helvetica";
+    font-family: "inconsolataregular", "Helvetica";
     font-size: 110pt !important;
     line-height: .85;
     transform: rotate(-65deg);
