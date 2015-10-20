@@ -13,6 +13,7 @@
 <a href="https://www.moveloot.com/"><img src="/lib/logos/moveloot.png" class="two-n-plus-oneth" /></a>
 <a href="http://www.cockroachlabs.com/"><img src="/lib/logos/cockroachlabs.png" class="two-n-plus-oneth" /></a>
 <a href="http://www.textriley.com/"><img src="/lib/logos/riley_square_1024.png" class="two-n-plus-oneth" /></a>
+<a href="http://touchlab.co/"><img src="/lib/logos/touchlab.png" class="two-n-plus-oneth" /></a>
 
 If you want to sponsor or be at our career fair, please email [startupweek@techatnyu.org](mailto:startupweek@@techatnyu.org) for the partner prospectus.
 
