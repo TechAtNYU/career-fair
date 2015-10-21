@@ -3,7 +3,7 @@
 <a href="http://www.work-bench.com/"><img src="/lib/logos/work-bench.png" class="two-n-plus-oneth" /></a>
 <a href="http://www.yodle.com/"><img src="/lib/logos/yodle.png" class="two-n-plus-oneth" /></a>
 <a href="http://www.2u.com/"><img src="/lib/logos/2U.png" class="two-n-plus-oneth" /></a>
-<a href="https://parcelapp.net/"><img src="/lib/logos/parcel.jpg" class="two-n-plus-oneth"/></a>
+<a href="https://www.fromparcel.com/"><img src="/lib/logos/parcel.jpg" class="two-n-plus-oneth"/></a>
 <a href="http://www.switchapp.com"><img src="/lib/logos/switch.png" class="two-n-plus-oneth" /></a>
 <a href="http://www.textriley.com/"<img src="/lib/logos/riley_square_1024.png" class="two-n-plus-oneth" /></a>
 <a href="http://seatswaptickets.com/"><img src="/lib/logos/seatswap.jpg" class="two-n-plus-oneth" /></a>
