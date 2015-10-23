@@ -3,7 +3,9 @@ tech@NYU Job Fair
 
 
 
-The marketing site ([nyusw.com](http://nyusw.com)) for tech@NYU Job Fair. 
+The marketing site ([nyusw.com](http://nyusw.com)) for tech@NYU Job Fair.
+
+Last updated for Fall 2015.
 
 ### Structure
 
